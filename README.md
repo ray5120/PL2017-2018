@@ -1,2 +1,2 @@
 # PL2017-2018
-Programming module 0 ML,Prolog
+Programming module - Heriot-watt Univeristy. ML,Prolog
